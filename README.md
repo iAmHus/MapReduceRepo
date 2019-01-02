@@ -1,4 +1,5 @@
-# MapReduceProjects
+# MapReduceRepo
+
 Store for MR projects
 
 
